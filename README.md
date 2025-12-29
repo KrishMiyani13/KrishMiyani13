@@ -6,13 +6,13 @@ I am a 1st-year student passionate about building functional web applications. I
 ---
 
 - 🌱 I’m currently learning **Backend Tools & FSD**
-- 📫 How to reach me: **yourname@email.com**
+- 📫 How to reach me: **Krishmiyani31@email.com**
 
 ---
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yourprofile/)
-[<img align="left" alt="HackerRank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/yourprofile)
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/krish-miyani)
+[<img align="left" alt="HackerRank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/krishmiyani2201)
 
 <br />
 <br />
