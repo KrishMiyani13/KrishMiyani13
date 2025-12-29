@@ -1,7 +1,7 @@
 # Hi 👋, I'm Krish Miyani
 
 ### 🚀 Aspiring Full-Stack Developer
-I am a 1st-year student passionate about building functional web applications. I focus on bridging the gap between clean frontend design and efficient backend logic using Java and Python.
+I am a 2nd-year student passionate about building functional web applications. I focus on bridging the gap between clean frontend design and efficient backend logic using Java and Python.
 
 ---
 
